@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="260" viewBox="0 0 180 260" shape-rendering="crispEdges">
+  <rect width="180" height="260" fill="#080808"/>
+  <rect x="8" y="8" width="164" height="244" fill="#1e150d" stroke="#8f4c12" stroke-width="8"/>
+  <rect x="24" y="24" width="132" height="34" fill="#e58d12"/>
+  <text x="90" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="900" fill="#1b0902">小米系</text>
+  <rect x="46" y="68" width="88" height="104" fill="#1b130d"/>
+  <rect x="56" y="78" width="68" height="20" fill="#120b07"/>
+  <rect x="54" y="100" width="72" height="56" fill="#c27b48"/>
+  <rect x="60" y="114" width="24" height="10" fill="#16100b"/>
+  <rect x="96" y="114" width="24" height="10" fill="#16100b"/>
+  <rect x="70" y="126" width="8" height="8" fill="#17100d"/>
+  <rect x="104" y="126" width="8" height="8" fill="#17100d"/>
+  <rect x="84" y="136" width="12" height="10" fill="#92542e"/>
+  <rect x="76" y="150" width="32" height="5" fill="#4a2112"/>
+  <rect x="40" y="172" width="100" height="48" fill="#2b2b2b"/>
+  <rect x="74" y="172" width="32" height="48" fill="#ece5d8"/>
+  <rect x="30" y="224" width="120" height="18" fill="#e58d12"/>
+  <text x="90" y="238" text-anchor="middle" font-family="monospace" font-size="14" font-weight="900" fill="#1b0902">雷总人格 · 追问成本</text>
+</svg>

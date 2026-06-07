@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="260" viewBox="0 0 180 260" shape-rendering="crispEdges">
+  <rect width="180" height="260" fill="#100606"/>
+  <rect x="8" y="8" width="164" height="244" fill="#21120d" stroke="#6f2b17" stroke-width="8"/>
+  <rect x="24" y="24" width="132" height="34" fill="#7d2b18"/>
+  <text x="90" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="900" fill="#f3c07f">京东系</text>
+  <rect x="42" y="68" width="96" height="104" fill="#101010"/>
+  <rect x="54" y="78" width="72" height="18" fill="#080808"/>
+  <rect x="52" y="98" width="76" height="56" fill="#b97043"/>
+  <rect x="58" y="108" width="20" height="10" fill="#0b0b0b"/>
+  <rect x="102" y="108" width="20" height="10" fill="#0b0b0b"/>
+  <rect x="66" y="122" width="10" height="8" fill="#0b0b0b"/>
+  <rect x="104" y="122" width="10" height="8" fill="#0b0b0b"/>
+  <rect x="84" y="132" width="12" height="10" fill="#7a3d26"/>
+  <rect x="72" y="148" width="36" height="6" fill="#3b160e"/>
+  <rect x="38" y="172" width="104" height="48" fill="#1a1a1a"/>
+  <rect x="78" y="172" width="24" height="48" fill="#d8d1c8"/>
+  <rect x="26" y="224" width="128" height="18" fill="#7d2b18"/>
+  <text x="90" y="238" text-anchor="middle" font-family="monospace" font-size="14" font-weight="900" fill="#f3c07f">东哥总裁 · 总裁办</text>
+</svg>

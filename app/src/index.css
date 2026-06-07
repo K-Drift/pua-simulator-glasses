@@ -1,0 +1,46 @@
+:root {
+  --font-body:
+    'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', system-ui, -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --mono:
+    'SFMono-Regular', 'Cascadia Mono', 'Roboto Mono', 'Menlo', 'Consolas', monospace;
+  color: #d6b98d;
+  background: #060403;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.45;
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100dvh;
+  background: #060403;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 3px solid #f29b12;
+  outline-offset: 2px;
+}
+
+img {
+  max-width: 100%;
+}

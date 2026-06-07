@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="260" viewBox="0 0 180 260" shape-rendering="crispEdges">
+  <rect width="180" height="260" fill="#080b09"/>
+  <rect x="8" y="8" width="164" height="244" fill="#162012" stroke="#55722b" stroke-width="8"/>
+  <rect x="24" y="24" width="132" height="34" fill="#9abd41"/>
+  <text x="90" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="900" fill="#101807">格里系</text>
+  <rect x="42" y="68" width="96" height="104" fill="#111b0e"/>
+  <rect x="54" y="76" width="72" height="18" fill="#0b1008"/>
+  <rect x="52" y="98" width="76" height="58" fill="#bf7a48"/>
+  <rect x="58" y="112" width="26" height="8" fill="#0b1008"/>
+  <rect x="96" y="112" width="26" height="8" fill="#0b1008"/>
+  <rect x="68" y="124" width="8" height="8" fill="#101807"/>
+  <rect x="104" y="124" width="8" height="8" fill="#101807"/>
+  <rect x="84" y="136" width="12" height="8" fill="#805033"/>
+  <rect x="72" y="150" width="36" height="5" fill="#391a10"/>
+  <rect x="38" y="172" width="104" height="48" fill="#102014"/>
+  <rect x="78" y="172" width="24" height="48" fill="#e7e1d3"/>
+  <rect x="30" y="224" width="120" height="18" fill="#9abd41"/>
+  <text x="90" y="238" text-anchor="middle" font-family="monospace" font-size="14" font-weight="900" fill="#101807">董总人格 · 抓纪律</text>
+</svg>

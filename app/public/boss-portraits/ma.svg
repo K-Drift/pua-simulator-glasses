@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="260" viewBox="0 0 180 260" shape-rendering="crispEdges">
+  <rect width="180" height="260" fill="#110604"/>
+  <rect x="8" y="8" width="164" height="244" fill="#351106" stroke="#8e2b0c" stroke-width="8"/>
+  <rect x="24" y="24" width="132" height="34" fill="#d88918"/>
+  <text x="90" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="900" fill="#230902">阿里巴巴</text>
+  <rect x="42" y="66" width="96" height="106" fill="#1c0d07"/>
+  <rect x="54" y="74" width="72" height="22" fill="#120805"/>
+  <rect x="46" y="92" width="88" height="20" fill="#211009"/>
+  <rect x="56" y="108" width="68" height="54" fill="#c97a42"/>
+  <rect x="50" y="124" width="12" height="24" fill="#9c5730"/>
+  <rect x="118" y="124" width="12" height="24" fill="#9c5730"/>
+  <rect x="60" y="116" width="24" height="14" fill="#f1d3a4"/>
+  <rect x="96" y="116" width="24" height="14" fill="#f1d3a4"/>
+  <rect x="58" y="112" width="30" height="6" fill="#110604"/>
+  <rect x="92" y="112" width="30" height="6" fill="#110604"/>
+  <rect x="74" y="122" width="8" height="8" fill="#110604"/>
+  <rect x="102" y="122" width="8" height="8" fill="#110604"/>
+  <rect x="84" y="135" width="12" height="10" fill="#8f4a2b"/>
+  <rect x="76" y="152" width="28" height="5" fill="#542514"/>
+  <rect x="42" y="174" width="96" height="44" fill="#17100d"/>
+  <rect x="78" y="174" width="24" height="44" fill="#e8dbc8"/>
+  <rect x="60" y="188" width="18" height="30" fill="#1f5f89"/>
+  <rect x="102" y="188" width="18" height="30" fill="#1f5f89"/>
+  <rect x="30" y="224" width="120" height="18" fill="#d88918"/>
+  <text x="90" y="238" text-anchor="middle" font-family="monospace" font-size="14" font-weight="900" fill="#230902">马云 · 价值观巡场</text>
+</svg>
