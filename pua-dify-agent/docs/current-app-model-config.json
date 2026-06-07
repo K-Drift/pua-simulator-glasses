@@ -1,0 +1,80 @@
+﻿{
+    "opening_statement":  null,
+    "suggested_questions":  [
+
+                            ],
+    "suggested_questions_after_answer":  {
+                                             "enabled":  false
+                                         },
+    "speech_to_text":  {
+                           "enabled":  false
+                       },
+    "text_to_speech":  {
+                           "enabled":  false
+                       },
+    "retriever_resource":  {
+                               "enabled":  true
+                           },
+    "annotation_reply":  {
+                             "enabled":  false
+                         },
+    "more_like_this":  {
+                           "enabled":  false
+                       },
+    "sensitive_word_avoidance":  {
+                                     "enabled":  false,
+                                     "type":  "",
+                                     "config":  {
+
+                                                }
+                                 },
+    "external_data_tools":  [
+
+                            ],
+    "model":  {
+                  "provider":  "langgenius/siliconflow/siliconflow",
+                  "name":  "Qwen/Qwen3.5-4B",
+                  "mode":  "chat",
+                  "completion_params":  {
+
+                                        }
+              },
+    "user_input_form":  [
+
+                        ],
+    "dataset_query_variable":  null,
+    "pre_prompt":  null,
+    "agent_mode":  {
+                       "enabled":  false,
+                       "strategy":  null,
+                       "tools":  [
+
+                                 ],
+                       "prompt":  null
+                   },
+    "prompt_type":  "simple",
+    "chat_prompt_config":  {
+
+                           },
+    "completion_prompt_config":  {
+
+                                 },
+    "dataset_configs":  {
+                            "retrieval_model":  "multiple"
+                        },
+    "file_upload":  {
+                        "image":  {
+                                      "enabled":  false,
+                                      "number_limits":  3,
+                                      "detail":  "high",
+                                      "transfer_methods":  [
+                                                               "remote_url",
+                                                               "local_file"
+                                                           ]
+                                  }
+                    },
+    "created_by":  "37ad2c86-c33c-45d8-8095-573992c47ff5",
+    "created_at":  1780716128,
+    "updated_by":  "37ad2c86-c33c-45d8-8095-573992c47ff5",
+    "updated_at":  1780716164
+}
