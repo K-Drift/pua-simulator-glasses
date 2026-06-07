@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rokid Record Demo</string>
+    <string name="record_idle">按眼镜按键开始录音</string>
+    <string name="record_permission">需要录音、拍照和存储权限</string>
+    <string name="rtc_connecting">正在连接 AI 会话...</string>
+    <string name="record_starting">正在启动录音...</string>
+    <string name="recording">开始录音并上传</string>
+    <string name="record_stopped">结束录音</string>
+    <string name="record_stopped_waiting">结束录音，等待 AI 回复</string>
+    <string name="ai_playing">AI 回复播放中</string>
+    <string name="record_failed">录音失败</string>
+    <string name="camera_preparing">相机准备中...</string>
+    <string name="camera_ready">相机就绪</string>
+    <string name="camera_taking">拍摄中</string>
+    <string name="camera_saved">已保存照片</string>
+    <string name="camera_failed">拍照失败</string>
+</resources>
