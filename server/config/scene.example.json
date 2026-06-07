@@ -1,0 +1,80 @@
+{
+  "SceneConfig": {
+    "name": "Rokid 默认助手"
+  },
+  "AccountConfig": {
+    "accessKeyId": "",
+    "secretKey": ""
+  },
+  "RTCConfig": {
+    "AppId": "",
+    "AppKey": "",
+    "RoomId": "",
+    "UserId": "",
+    "Token": ""
+  },
+  "VoiceChat": {
+    "AppId": "",
+    "RoomId": "",
+    "TaskId": "",
+    "Config": {
+      "ASRConfig": {
+        "Provider": "volcano",
+        "ProviderParams": {
+          "Mode": "bigmodel",
+          "ApiResourceId": "volc.bigasr.sauc.duration"
+        },
+        "VADConfig": {
+          "SilenceTime": 600
+        },
+        "InterruptConfig": {
+          "InterruptKeywords": [],
+          "InterruptSpeechDuration": 0
+        }
+      },
+      "LLMConfig": {
+        "Mode": "ArkV3",
+        "ModelName": "doubao-seed-1-6-flash-250828",
+        "SystemMessages": [
+          "你是一个运行在 Rokid 眼镜上的语音助手。回答要简短、直接、适合语音播报。"
+        ],
+        "ThinkingType": "disabled",
+        "VisionConfig": {},
+        "HistoryLength": 10,
+        "Temperature": 0.1,
+        "TopP": 0.3,
+        "MaxTokens": 1024
+      },
+      "TTSConfig": {
+        "Provider": "volcano_bidirection",
+        "ProviderParams": {
+          "Credential": {
+            "ResourceId": "seed-tts-1.0"
+          },
+          "VolcanoTTSParameters": "{\"req_params\":{\"speaker\":\"zh_female_yuanqinvyou_moon_bigtts\",\"audio_params\":{\"speech_rate\":0,\"loudness_rate\":0},\"additions\":{\"post_process\":{\"pitch\":0}}}}"
+        }
+      },
+      "InterruptMode": 0,
+      "SubtitleConfig": {
+        "DisableRTSSubtitle": false,
+        "SubtitleMode": 0
+      },
+      "FunctionCallingConfig": {},
+      "WebSearchAgentConfig": {},
+      "MemoryConfig": {},
+      "MusicAgentConfig": {}
+    },
+    "AgentConfig": {
+      "TargetUserId": [
+        ""
+      ],
+      "UserId": "rokid-ai-bot-001",
+      "WelcomeMessage": "我是你的AI助手，有什么需要我为您效劳的吗？",
+      "EnableConversationStateCallback": false,
+      "VoicePrint": {
+        "MetaList": null,
+        "VoicePrintList": null
+      }
+    }
+  }
+}
