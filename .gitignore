@@ -1,0 +1,47 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Secrets / env (真实密钥切勿提交) =====
+.env
+.env.*
+!.env.example
+**/config/scene.json
+local.properties
+
+# ===== Node =====
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-error.log*
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ===== 运行时产物（前后端）=====
+server/media/
+app/public/rokid-status/
+app/public/generated-posters/
+app/public/user-avatars/
+
+# ===== 本地文档（仅本地保留，不入仓库）=====
+牛马预备役-流程展示图.html
+牛马预备役-体验者操作手册.html
+牛马预备役-体验者操作手册_备份.html
+
+# ===== Android / Gradle =====
+.gradle/
+build/
+**/build/
+*.iml
+.idea/
+*.keystore
+
+# ===== Editor =====
+.vscode/*
+!.vscode/extensions.json
